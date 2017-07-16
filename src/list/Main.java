@@ -9,8 +9,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //        list.List list = new list.ArrayList(100);
-//        list.List list = new list.LinkedList();
-        List list = new Collection();
+        list.List list = new list.LinkedList();
+//        List list = new Collection();
 
         Boolean run = true;
 
